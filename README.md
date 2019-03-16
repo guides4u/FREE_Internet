@@ -24,6 +24,7 @@ Guide to SECURE & FREE INTERNET
 
 - [ ] [WHY: 为何翻墙](https://github.com/guides4u/FREE_Internet/blob/master/why.md)
 - [ ] HOW: 如何翻墙
+- [ ] 翻墙原理简述
 - [ ] MacOS 翻墙简明教程
 - [ ] Windows 翻墙简明教程
 - [ ] iOS 苹果手机翻墙简明教程
