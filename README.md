@@ -30,5 +30,5 @@ Guide to SECURE & FREE INTERNET
 - [ ] Android 安卓手机翻墙简明教程
 - [ ] 关于隐私保护和注意事项
 - [ ] 其它注意事项
+- [ ] 其它惊喜
 
-#tbc.
