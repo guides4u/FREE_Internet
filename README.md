@@ -22,7 +22,7 @@ Guide to SECURE & FREE INTERNET
 
 ## 内容安排
 
-- [ ] 为何翻墙
+- [ ] [为何翻墙](https://github.com/guides4u/FREE_Internet/blob/master/why.md)
 - [ ] 如何翻墙
 - [ ] MacOS 翻墙简明教程
 - [ ] Windows 翻墙简明教程
